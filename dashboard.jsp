@@ -10,7 +10,7 @@
     <a href="LogoutServlet">Logout</a>
     
     <h2>Available Courses</h2>
-    <table border="1">
+    <table>
         <tr>
             <th>Course ID</th>
             <th>Course Name</th>
